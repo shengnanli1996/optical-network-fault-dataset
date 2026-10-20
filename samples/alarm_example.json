@@ -1,0 +1,424 @@
+{
+  "alarm": [
+    {
+      "time-created": "2026-10-14T03:40:12.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:12.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-2",
+        "location-info": "0-subrack-6-G3DAPXF-16(RC/TC)-OTS:1",
+        "native-probable-cause": "MUT_LOS",
+        "probable-cause": "(1) The fiber connected to the board is disconnected or damaged;\n(2) The signal suffers excessive transmission loss;\n(3) The board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:21.833Z",
+        "alarm-serial-number": "440231",
+        "reason-id": 186,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of multiplexed signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0180",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-186",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:12.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:12.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE3-2",
+        "location-info": "0-main subrack-7-12WSMD9-1(IN/OUT)-OTS:1",
+        "native-probable-cause": "MUT_LOS",
+        "probable-cause": "(1) The fiber connected to the board is disconnected or damaged;\n(2) The signal suffers excessive transmission loss;\n(3) The board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440229",
+        "reason-id": 186,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of multiplexed signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0127",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-186",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_B"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:12.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:12.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "equipment-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE3-2",
+        "location-info": "0-main subrack-5-12WSMD9-1(IN/OUT)-OTS:1",
+        "native-probable-cause": "MUT_TLOS",
+        "probable-cause": "The alarm is raised when the output optical power of the multiplexed optical port falls below the configured lower threshold.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440228",
+        "reason-id": 12842,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of transmit optical power at the multiplexed optical port",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0142",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-12842",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "equipment-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_B"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:12.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:12.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-2",
+        "location-info": "0-subrack-6-G3DAPXF-8(T_IN)-OTS:1",
+        "native-probable-cause": "MUT_LOS",
+        "probable-cause": "(1) The fiber connected to the board is disconnected or damaged;\n(2) The signal suffers excessive transmission loss;\n(3) The board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:19.774Z",
+        "alarm-serial-number": "440222",
+        "reason-id": 186,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of multiplexed signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0101",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-186",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:11.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:11.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE2-1",
+        "location-info": "0-subrack-6-G3DAPXF-1(R_IN)-OTS:1",
+        "native-probable-cause": "MUT_LOS",
+        "probable-cause": "(1) The fiber connected to the board is disconnected or damaged;\n(2) The signal suffers excessive transmission loss;\n(3) The board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:21.833Z",
+        "alarm-serial-number": "440232",
+        "reason-id": 186,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of multiplexed signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0198",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-186",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:11.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:11.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-1",
+        "location-info": "0-subrack-1-G1M520SM-1(IN1/OUT1)-OCH:1",
+        "native-probable-cause": "R_LOS",
+        "probable-cause": "(1) No patch cord is connected to the optical interface of the local board;\n(2) The laser on the remote board is disabled;\n(3) The transmission fiber is cut;\n(4) Transmission-line attenuation is excessive;\n(5) The transmit section of the remote board is faulty;\n(6) The receive section of the local board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440227",
+        "reason-id": 1,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of receive line-side signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0092",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-1",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Channel",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:11.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "critical",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:11.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-1",
+        "location-info": "0-subrack-2-G2OLP-3(SIN/SOUT)-OTS:1",
+        "native-probable-cause": "MUT_LOS",
+        "probable-cause": "(1) The fiber connected to the board is disconnected or damaged;\n(2) The signal suffers excessive transmission loss;\n(3) The board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440224",
+        "reason-id": 186,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Loss of multiplexed signal",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0057",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-186",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:10.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "major",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:10.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "equipment-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-4",
+        "location-info": "0-main subrack-1-G2OLP-1(WIN/WOUT)-CLIENT:1",
+        "native-probable-cause": "POWER_DIFF_OVER",
+        "probable-cause": "(1) Excessive attenuation on the primary or standby channel causes the received optical-power difference to exceed the 5 dB threshold;\n(2) A large transmit-power difference between the primary and standby channels at the upstream site causes the received optical-power difference to exceed the 5 dB threshold;\n(3) The monitoring circuit on the board is faulty.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440226",
+        "reason-id": 211,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Optical-power difference between primary and standby channels above threshold",
+        "other-info": "\nAlarm parameter II (hexadecimal) 0x00 0x01",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0005",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-211",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "equipment-alarm",
+        "layer": "LR_DIGITAL_SIGNAL_RATE",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:10.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "minor",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:10.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-4",
+        "location-info": "0-main subrack-1-G2OLP-1(WIN/WOUT)-OTS:1",
+        "native-probable-cause": "OLP_STA_INDI",
+        "probable-cause": "(1) An SF or SD condition exists on the primary or standby channel of the protection group.\n(2) The protection group is in an externally commanded switching state.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:20.816Z",
+        "alarm-serial-number": "440225",
+        "reason-id": 13137,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Optical line protection group status indication",
+        "other-info": "\nSwitching request: SF switching;\nAlarm parameter II (hexadecimal) 0x0c 0xfe 0xc7 0xff 0x06",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0131",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-13137",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    },
+    {
+      "time-created": "2026-10-14T03:40:10.000Z",
+      "is-acked": false,
+      "resource-alarm-parameters": {
+        "perceived-severity": "major",
+        "is-cleared": false,
+        "status-change": [],
+        "last-changed": "2026-10-14T03:40:10.000Z"
+      },
+      "x733-alarm-parameters": {
+        "event-type": "communications-alarm"
+      },
+      "operator-state-change": [],
+      "alarm-parameters": {
+        "repair-action": "",
+        "ne-name": "NE1-4",
+        "location-info": "0-main subrack-1-G2OLP-1(WIN/WOUT)-OTS:1",
+        "native-probable-cause": "OLP_PS",
+        "probable-cause": "This alarm is reported when an optical line protection group switches the working channel from the primary channel to the standby channel.",
+        "root-cause-identifier": false,
+        "ems-time": "2026-10-14T03:40:19.790Z",
+        "alarm-serial-number": "440223",
+        "reason-id": 12537,
+        "tenant-id": "default-organization-id",
+        "tenant": "",
+        "alarm-text": "Optical line protection switching",
+        "other-info": "",
+        "comments": ""
+      },
+      "common-alarm-parameters": {
+        "alt-resource": [],
+        "resource": "resource_0131",
+        "related-alarm": [],
+        "alarm-type-qualifier": "268374017-12537",
+        "impacted-resource": [],
+        "root-cause-resource": [],
+        "alarm-type-id": "communications-alarm",
+        "layer": "LR_Optical_Transmission_Section",
+        "md-name": "NMS",
+        "product-type": "platform_A"
+      }
+    }
+  ]
+}

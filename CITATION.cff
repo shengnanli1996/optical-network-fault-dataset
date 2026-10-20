@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata in this file."
+title: "An Open Multi-Topology and Multi-Source Dataset for Alarm Analysis and Fault Diagnosis in Optical Networks"
+type: dataset
+doi: "10.5281/zenodo.23471382"
+version: "1.0.0"
+authors:
+  - family-names: Li
+    given-names: Shengnan
+    affiliation: "State Key Laboratory of Information Photonics and Optical Communications, Beijing University of Posts and Telecommunications (BUPT)"
+  - family-names: Wang
+    given-names: Fubin
+    affiliation: "State Key Laboratory of Information Photonics and Optical Communications, Beijing University of Posts and Telecommunications (BUPT)"
+  - family-names: Zhang
+    given-names: Min
+    affiliation: "State Key Laboratory of Information Photonics and Optical Communications, Beijing University of Posts and Telecommunications (BUPT)"
+  - family-names: Wang
+    given-names: Danshi
+    email: danshi_wang@bupt.edu.cn
+    affiliation: "State Key Laboratory of Information Photonics and Optical Communications, Beijing University of Posts and Telecommunications (BUPT)"
+repository-code: "https://github.com/shengnanli1996/optical-network-fault-dataset"
+license: CC-BY-4.0
+keywords:
+  - optical transport network
+  - fault diagnosis
+  - performance monitoring
+  - network alarms
+  - optical channel monitoring
+  - multi-source dataset

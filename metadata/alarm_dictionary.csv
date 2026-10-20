@@ -1,0 +1,53 @@
+native_alarm_code,alarm_text_en,probable_cause_en
+BD_STATUS,Board not in position,"(1) The subcard is physically present but is not registered;
+(2) The board is offline;
+(3) The fan is not in position;
+(4) The control board is physically present but is not registered;
+(5) The chassis has insufficient board resources for the inserted subcard;
+(6) The active and standby control boards have different hardware types."
+BEFFEC_EXC,Pre-FEC error count above threshold,"1. The optical-port input power is too high or too low.
+2. The fiber is bent excessively.
+3. The fiber connector is contaminated.
+4. The optical module is not firmly inserted or is faulty.
+5. The interconnected boards use inconsistent FEC modes.
+6. The board reporting the alarm is faulty.
+7. The board at the remote end is faulty."
+IN_PWR_LOW,Low input optical power,"(1) The transmit power at the remote site is too low;
+(2) Fiber performance has degraded;
+(3) An unsuitable optical-module type is used;
+(4) The fiber connector is contaminated;
+(5) The patch cord is excessively bent, damaged, or aged;
+(6) Excessive attenuation is applied to the receive port of the local board;
+(7) The optical signal suffers excessive transmission loss without sufficient optical-amplifier compensation;
+(8) Excessive attenuation is applied to the transmit port of the remote board, or its transmit optical module is faulty, resulting in low transmit power;
+(9) The local board is faulty;
+(10) An upstream fiber cut causes the received signal to contain only noise;
+(11) The laser on an upstream board is disabled, causing the received signal to contain only noise."
+MUT_LOS,Loss of multiplexed signal,"(1) The fiber connected to the board is disconnected or damaged;
+(2) The signal suffers excessive transmission loss;
+(3) The board is faulty."
+MUT_TLOS,Loss of transmit optical power at the multiplexed optical port,The alarm is raised when the output optical power of the multiplexed optical port falls below the configured lower threshold.
+ODUCN_PM_LCK,ODUCn PM signal lock defect,The signal is locked while the current line signal is being tested.
+OLP_PS,Optical line protection switching,This alarm is reported when an optical line protection group switches the working channel from the primary channel to the standby channel.
+OLP_STA_INDI,Optical line protection group status indication,"(1) An SF or SD condition exists on the primary or standby channel of the protection group.
+(2) The protection group is in an externally commanded switching state."
+OSC_LOS,Loss of input optical power on the OSC board,The input optical power of the OSC board is below its LOS threshold.
+OTUCN_LOF,OTUCn loss of frame,"The board reporting the alarm is faulty;
+The receive optical power or signal-to-noise ratio on the local board is abnormal;
+The corresponding board at the remote end transmits a signal without a frame structure;
+The fiber transmission line is abnormal;
+Chromatic-dispersion compensation is too high or too low;
+In the C+L system, dummy light is inserted, preventing the OTU board from receiving the optical signal;
+The service type or FEC type does not match;
+The line coding formats at the two ends do not match."
+POWER_DIFF_OVER,Optical-power difference between primary and standby channels above threshold,"(1) Excessive attenuation on the primary or standby channel causes the received optical-power difference to exceed the 5 dB threshold;
+(2) A large transmit-power difference between the primary and standby channels at the upstream site causes the received optical-power difference to exceed the 5 dB threshold;
+(3) The monitoring circuit on the board is faulty."
+R_LOS,Loss of receive line-side signal,"(1) No patch cord is connected to the optical interface of the local board;
+(2) The laser on the remote board is disabled;
+(3) The transmission fiber is cut;
+(4) Transmission-line attenuation is excessive;
+(5) The transmit section of the remote board is faulty;
+(6) The receive section of the local board is faulty."
+SUM_INPWR_LOW,Low aggregate input optical power,"(1) The external input optical power is too low;
+(2) The analog-to-digital converter reports an abnormal measurement."

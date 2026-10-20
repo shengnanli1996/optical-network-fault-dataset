@@ -1,0 +1,11 @@
+{
+  "platform_A": {
+    "manufacturer": "Huawei",
+    "product_type": "OptiX OSN 9800 M12"
+  },
+  "platform_B": {
+    "manufacturer": "Huawei",
+    "product_type": "OptiX OSN 8800"
+  },
+  "note": "Exact hardware provenance is kept in this separate metadata file; individual alarm records use vendor-neutral platform aliases."
+}

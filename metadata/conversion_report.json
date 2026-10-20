@@ -1,0 +1,98 @@
+{
+  "status": "passed",
+  "source_directories_unchanged": true,
+  "identifier_scope": "independent_per_topology",
+  "public_data_file_count": 45429,
+  "topologies": {
+    "topology_1": {
+      "json_files": 2060,
+      "xml_files": 1648,
+      "pm_files": 1648,
+      "alarm_files": 412,
+      "ocm_files": 1648,
+      "pm_rows": 10300,
+      "pm_indicators": 61538,
+      "alarm_records": 935,
+      "ocm_channel_power_records": 13542,
+      "ocm_empty_responses": 142,
+      "removed_security_elements": 1648,
+      "removed_operation_uuid_elements": 1648,
+      "translated_alarm_records": 935,
+      "translated_location_values": 1284,
+      "normalized_unit_values": 3019,
+      "anonymized_uuid_occurrences": 21535,
+      "removed_ip_fields": 935,
+      "removed_resource_urls": 935,
+      "platform_counts": {
+        "platform_A": 935
+      },
+      "anonymous_device_ids": 4,
+      "anonymous_resource_ids": 30
+    },
+    "topology_2": {
+      "json_files": 1540,
+      "xml_files": 1232,
+      "pm_files": 1232,
+      "alarm_files": 308,
+      "ocm_files": 1232,
+      "pm_rows": 8008,
+      "pm_indicators": 47099,
+      "alarm_records": 558,
+      "ocm_channel_power_records": 57500,
+      "ocm_empty_responses": 34,
+      "removed_security_elements": 1232,
+      "removed_operation_uuid_elements": 1232,
+      "translated_alarm_records": 558,
+      "translated_location_values": 944,
+      "normalized_unit_values": 2220,
+      "anonymized_uuid_occurrences": 16574,
+      "removed_ip_fields": 558,
+      "removed_resource_urls": 558,
+      "platform_counts": {
+        "platform_A": 558
+      },
+      "anonymous_device_ids": 4,
+      "anonymous_resource_ids": 31
+    },
+    "topology_3": {
+      "json_files": 14249,
+      "xml_files": 24700,
+      "pm_files": 13299,
+      "alarm_files": 950,
+      "ocm_files": 24700,
+      "pm_rows": 111055,
+      "pm_indicators": 562310,
+      "alarm_records": 4868,
+      "ocm_channel_power_records": 225301,
+      "ocm_empty_responses": 826,
+      "removed_security_elements": 24700,
+      "removed_operation_uuid_elements": 24700,
+      "translated_alarm_records": 4868,
+      "translated_location_values": 50551,
+      "normalized_unit_values": 16088,
+      "anonymized_uuid_occurrences": 226978,
+      "removed_ip_fields": 4868,
+      "removed_resource_urls": 4868,
+      "platform_counts": {
+        "platform_A": 4487,
+        "platform_B": 381
+      },
+      "anonymous_device_ids": 14,
+      "anonymous_resource_ids": 213
+    }
+  },
+  "residual_scan": {
+    "files_with_chinese": 0,
+    "files_with_vendor_terms": 0,
+    "files_with_uuid": 0,
+    "files_with_ipv4": 0,
+    "xml_files_with_security": 0,
+    "xml_files_with_operuuid": 0
+  },
+  "alarm_translation_count": 13,
+  "pm_indicator_count": 55,
+  "notes": [
+    "Exact hardware provenance is intentionally retained only in hardware_metadata.json.",
+    "Private UUID mappings are stored outside the public release directory."
+  ]
+}

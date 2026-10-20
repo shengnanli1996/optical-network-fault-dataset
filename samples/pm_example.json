@@ -1,0 +1,686 @@
+{
+  "pm-output": {
+    "pm-datas": {
+      "pm-data": [
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Max Total Output Optical Power",
+                "indicator-integer-value": -5,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Output Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Total Output Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0043",
+          "res-name": "NE1-1-Shelf0(subrack)-2-G2OLP-1-WIN/WOUT-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Max Total Output Optical Power",
+                "indicator-integer-value": -5,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Output Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Total Output Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0056",
+          "res-name": "NE1-1-Shelf0(subrack)-2-G2OLP-2-PIN/POUT-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": -2,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0057",
+          "res-name": "NE1-1-Shelf0(subrack)-2-G2OLP-3-SIN/SOUT-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": -2,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": -16,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -7.6,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0078",
+          "res-name": "NE1-1-Shelf0(subrack)-6-G3DAPXF-8-T_IN-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Output Optical Power",
+                "indicator-integer-value": 17,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Output Optical Power",
+                "indicator-integer-value": 3,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 12.5,
+                "indicator-id": "Cur Total Output Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 47.100001,
+                "indicator-id": "EDFA Cooling Current Avg Value",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "mA"
+              }
+            ]
+          },
+          "res-id": "resource_0089",
+          "res-name": "NE1-1-Shelf0(subrack)-6-G3DAPXF-11-T_OUT-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "Cur Laser Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -11.4,
+                "indicator-id": "LSIOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -2.0,
+                "indicator-id": "Cur Laser Output Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -2.0,
+                "indicator-id": "LSOOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -2.1,
+                "indicator-id": "LSOOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 1118.0,
+                "indicator-id": "TDCCUR[Default]",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "ps/nm"
+              },
+              {
+                "indicator-double-value": 1120.0,
+                "indicator-id": "TDCMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "ps/nm"
+              },
+              {
+                "indicator-double-value": 1116.0,
+                "indicator-id": "TDCMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "ps/nm"
+              },
+              {
+                "indicator-double-value": 2.5,
+                "indicator-id": "DGDAVG",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1pps/nm"
+              },
+              {
+                "indicator-double-value": 4.0,
+                "indicator-id": "DGDMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1pps/nm"
+              },
+              {
+                "indicator-double-value": 2.0,
+                "indicator-id": "DGDMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1pps/nm"
+              },
+              {
+                "indicator-double-value": 2.0,
+                "indicator-id": "DGDCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1pps/nm"
+              },
+              {
+                "indicator-double-value": 146.600002,
+                "indicator-id": "Max Bias Current",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "mA"
+              },
+              {
+                "indicator-double-value": 146.500002,
+                "indicator-id": "Min Bias Current",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "mA"
+              },
+              {
+                "indicator-double-value": 146.600002,
+                "indicator-id": "Bias Current",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "mA"
+              },
+              {
+                "indicator-double-value": -347.400005,
+                "indicator-id": "LSCLCMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1mA"
+              },
+              {
+                "indicator-double-value": -357.100005,
+                "indicator-id": "LSCLCMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1mA"
+              },
+              {
+                "indicator-double-value": -349.800005,
+                "indicator-id": "LSCLCCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "0.1mA"
+              },
+              {
+                "indicator-double-value": 40.100001,
+                "indicator-id": "LSTMPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "°C"
+              },
+              {
+                "indicator-double-value": 40.100001,
+                "indicator-id": "LSTMPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "°C"
+              },
+              {
+                "indicator-double-value": 40.100001,
+                "indicator-id": "LSTMPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "°C"
+              },
+              {
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "0.1dBm"
+              },
+              {
+                "indicator-id": "SUMIOPMAX",
+                "indicator-integer-value": -11,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "0.1dBm"
+              },
+              {
+                "indicator-id": "SUMIOPMIN",
+                "indicator-integer-value": -60,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "0.1dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0092",
+          "res-name": "NE1-1-Shelf0(subrack)-1-G1M520SM-1-IN1/OUT1-OCH:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": " dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.4,
+                "indicator-id": "LSOOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.5,
+                "indicator-id": "LSOOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.4,
+                "indicator-id": "LSOOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "OSC_UAS",
+                "indicator-integer-value": 637,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "s"
+              }
+            ]
+          },
+          "res-id": "resource_0110",
+          "res-name": "NE1-1-Shelf0(subrack)-10-G2AST2-1-RM1/TM1-OSC:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-double-value": -11.9,
+                "indicator-id": "SUMOOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "SUMOOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "SUMOOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0161",
+          "res-name": "NE1-1-Shelf0(subrack)-3-G3M48V-1-OUT-OMS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Output Optical Power",
+                "indicator-integer-value": 19,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Output Optical Power",
+                "indicator-integer-value": 7,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 15.3,
+                "indicator-id": "Cur Total Output Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 325.500005,
+                "indicator-id": "EDFA Cooling Current Avg Value",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "mA"
+              }
+            ]
+          },
+          "res-id": "resource_0168",
+          "res-name": "NE1-1-Shelf0(subrack)-11-G3DAPXF-11-T_OUT-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:44Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": " dBm"
+              },
+              {
+                "indicator-double-value": -60.000001,
+                "indicator-id": "LSIOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.4,
+                "indicator-id": "LSOOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.5,
+                "indicator-id": "LSOOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.4,
+                "indicator-id": "LSOOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "OSC_UAS",
+                "indicator-integer-value": 640,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "s"
+              }
+            ]
+          },
+          "res-id": "resource_0184",
+          "res-name": "NE1-1-Shelf0(subrack)-5-G2AST2-1-RM1/TM1-OSC:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:46Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-double-value": -15.0,
+                "indicator-id": "LSIOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -14.9,
+                "indicator-id": "LSIOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": " dBm"
+              },
+              {
+                "indicator-double-value": -15.0,
+                "indicator-id": "LSIOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.2,
+                "indicator-id": "LSOOPCUR",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.2,
+                "indicator-id": "LSOOPMAX",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 2.1,
+                "indicator-id": "LSOOPMIN",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "OSC_FEUAS",
+                "indicator-integer-value": 643,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "s"
+              },
+              {
+                "indicator-id": "FEC_BEF_COR_ER",
+                "indicator-integer-value": 0,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "%"
+              },
+              {
+                "indicator-id": "FEC_AFT_COR_ER",
+                "indicator-integer-value": 0,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "%"
+              },
+              {
+                "indicator-double-value": 0.0,
+                "indicator-id": "Pre-FEC BER",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "%"
+              },
+              {
+                "indicator-double-value": 0.0,
+                "indicator-id": "Post-FEC BER",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "%"
+              },
+              {
+                "indicator-id": "FEC_AFT_COR_ERAVR",
+                "indicator-integer-value": 0,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "%"
+              },
+              {
+                "indicator-id": "FEC_BEF_COR_ERAVR",
+                "indicator-integer-value": 0,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "%"
+              }
+            ]
+          },
+          "res-id": "resource_0007",
+          "res-name": "NE1-1-Shelf0(subrack)-8-G2AST2-1-RM1/TM1-OSC:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:46Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": 0,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": -13,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": -4.7,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0071",
+          "res-name": "NE1-1-Shelf0(subrack)-11-G3DAPXF-8-T_IN-OTS:1",
+          "res-type-name": "ltp"
+        },
+        {
+          "collect-time": "2026-10-14T03:40:46Z",
+          "device-id": "device_008",
+          "device-name": "NE1-1",
+          "indicator-datas": {
+            "indicator-data": [
+              {
+                "indicator-id": "Max Total Input Optical Power",
+                "indicator-integer-value": 16,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-id": "Min Total Input Optical Power",
+                "indicator-integer-value": 5,
+                "indicator-value-type": "integer",
+                "indicator-value-unit": "dBm"
+              },
+              {
+                "indicator-double-value": 12.0,
+                "indicator-id": "Cur Total Input Optical Power",
+                "indicator-value-type": "double",
+                "indicator-value-unit": "dBm"
+              }
+            ]
+          },
+          "res-id": "resource_0115",
+          "res-name": "NE1-1-Shelf0(subrack)-12-G2VA2-1-IN1-OTS:1",
+          "res-type-name": "ltp"
+        }
+      ]
+    }
+  }
+}

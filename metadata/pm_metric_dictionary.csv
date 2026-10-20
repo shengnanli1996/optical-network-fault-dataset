@@ -1,0 +1,56 @@
+native_indicator_id,observed_units,normalized_units
+Bias Current,mA,mA
+Cur Laser Input Optical Power,dBm,dBm
+Cur Laser Output Optical Power,dBm,dBm
+Cur Total Input Optical Power,0.1dBm | dBm,0.1dBm | dBm
+Cur Total Output Optical Power,dBm,dBm
+DGDAVG,0.1pps/nm,0.1pps/nm
+DGDCUR,0.1pps/nm,0.1pps/nm
+DGDMAX,0.1pps/nm,0.1pps/nm
+DGDMIN,0.1pps/nm,0.1pps/nm
+EDFA Cooling Current Avg Value,mA,mA
+FEC Corrected 0 Bit Count,bit,bit
+FEC Corrected 1 Bit Count,bit,bit
+FEC Corrected Byte Count,bit,bit
+FEC UnCorrected Block Count,bit,bit
+FEC_AFT_COR_ER,%,%
+FEC_AFT_COR_ERAVR,%,%
+FEC_BEF_COR_ER,%,%
+FEC_BEF_COR_ERAVR,%,%
+LSCLCCUR,0.1mA,0.1mA
+LSCLCMAX,0.1mA,0.1mA
+LSCLCMIN,0.1mA,0.1mA
+LSIOPCUR,dBm,dBm
+LSIOPMAX, dBm | dBm, dBm | dBm
+LSIOPMIN,dBm,dBm
+LSOOPCUR,dBm,dBm
+LSOOPMAX,dBm,dBm
+LSOOPMIN,dBm,dBm
+LSTMPCUR,℃,°C
+LSTMPMAX,℃,°C
+LSTMPMIN,℃,°C
+Max Bias Current,mA,mA
+Max Total Input Optical Power,dBm,dBm
+Max Total Output Optical Power,dBm,dBm
+Min Bias Current,mA,mA
+Min Total Input Optical Power,dBm,dBm
+Min Total Output Optical Power,dBm,dBm
+OSC_ES,s,s
+OSC_FEBBE,blocks,blocks
+OSC_FEBBER,%,%
+OSC_FEES,s,s
+OSC_FEUAS,s,s
+OSC_SES,s,s
+OSC_SESR,%,%
+OSC_UAS,s,s
+Post-FEC BER,%,%
+Pre-FEC BER,%,%
+SUMIOPCUR,dBm,dBm
+SUMIOPMAX,0.1dBm | dBm,0.1dBm | dBm
+SUMIOPMIN,0.1dBm | dBm,0.1dBm | dBm
+SUMOOPCUR,dBm,dBm
+SUMOOPMAX,dBm,dBm
+SUMOOPMIN,dBm,dBm
+TDCCUR[Default],ps/nm,ps/nm
+TDCMAX,ps/nm,ps/nm
+TDCMIN,ps/nm,ps/nm
